@@ -1,3 +1,4 @@
 I am happy!
-I am happy too!! (200, expect to conflic!!!)
+I am happy too!! (300, this is the value we really want, no conflict^_^)
+>>>>>>> test
 Everyone is happy!!!
