@@ -1,0 +1,10 @@
+1. Create another account on GitHub.
+2. Use yingl account to do following things:
+  a. Create a new branch "test" to do some changes.
+  b. Update "master" branch.
+  Note: We expect to have conflicts between "master" and "test" branch.
+    - Creat a new file named "story.txt".
+    - Add 3 lines in "story.txt" and commit the file.
+    - Switch to "test" branch and edit 2nd line, commit it.
+    - Siwtch back to "master" branch and edit 2nd line, commit it.
+  c. Merge the code in "test" branch back to "master" branch and resolve conflicts.
